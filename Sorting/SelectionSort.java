@@ -8,8 +8,8 @@ public class SelectionSort {
     }
     public static void selection(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
-            int larg = arr.length - i -1;
-            int maxIndex = getMaxIndex(arr,0,larg);
+            int larg = arr.length - i -1; //index of position of the largest value
+            int maxIndex = getMaxIndex(arr,0,larg); //index of the largest value
             swap(arr,maxIndex,larg);
         }
     }
