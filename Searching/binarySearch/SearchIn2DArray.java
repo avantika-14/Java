@@ -3,6 +3,7 @@ import java.util.Arrays;
 
 public class SearchIn2DArray {
     public static void main(String[] args) {
+        //this is a row wise sorted matrix
         int[][] mat= {
             {10, 20, 30, 40},
             {15, 25, 35, 45},
