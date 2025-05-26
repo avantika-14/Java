@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1
+
 public class RemoveDuplicates {
 
     public static int removeDuplicatesInSortedArray(int[] nums) {
