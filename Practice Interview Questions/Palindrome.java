@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/problems/palindrome0746/1
+
 import java.util.Scanner;
 
 public class Palindrome {
