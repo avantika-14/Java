@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class DetectLoop {
 
-    static class Node {
+    public static class Node {
         int data;
         Node next;
         Node(int d) {data = d; next = null; }
