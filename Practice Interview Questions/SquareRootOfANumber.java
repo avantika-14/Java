@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/square-root/1?company=
+
 import java.util.Scanner;
 
 public class SquareRootOfANumber {
