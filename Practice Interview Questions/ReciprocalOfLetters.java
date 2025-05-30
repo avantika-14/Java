@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/problems/program-to-print-reciprocal-of-letters36233623/0
+
 import java.util.Scanner;
 
 public class ReciprocalOfLetters {

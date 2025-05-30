@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/problems/the-lazy-caterers-problem2527/1
+
 import java.util.Scanner;
 
 public class LazyCaterersProblem {
