@@ -10,6 +10,7 @@ public abstract class Employee {
         this.paymentPerHour = paymentPerHour;
     }
 
+    // this is abstract because every employee must have calculatePay() method to calculate their pay themselves
     public abstract int calculatePay();
 
     public void setName(String name){
