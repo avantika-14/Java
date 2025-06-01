@@ -3,7 +3,7 @@ package AccessModifiers.p1;
 class A {
 
     private void greet() {
-        System.out.println("A");
+        System.out.println("A in private");
     }
 }
 
